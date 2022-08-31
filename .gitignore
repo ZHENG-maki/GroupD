@@ -1,0 +1,8 @@
+# for folder
+/Intermediate
+/DerivedDataCache
+/Binaries
+/Saved
+
+# for files
+*.sln
